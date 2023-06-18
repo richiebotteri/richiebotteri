@@ -2,6 +2,8 @@
 
 I'm taking a two year front-end developer education at Noroff school of vocational studies. We create user-friendly web solutions that follows the design thinking process, applying the universal principles of design and ensuring that our web solutions are accessible!
 
+Check out my last projects below!
+
 <!--
 **richiebotteri/richiebotteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
