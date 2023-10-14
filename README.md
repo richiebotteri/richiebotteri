@@ -45,6 +45,6 @@ I'm currently open for hire in Norway. You can find me on [Linkedin](https://www
 - Can create user stories, information architectures, wireframes, and prototypes for web applications.
 
 💾 **Backend Development**
-- Experience integrating backend services like Supabase and Appwrite.
+- Experience integrating backend services like Supabase and Appwrite (Similar to Firebase).
 - Utilized these services for features such as authentication, database management, storage, and real-time updates.
 - Experience with PostgreSQL for database management.
