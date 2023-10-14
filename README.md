@@ -3,6 +3,8 @@
 
 I also comply with the **EU Web Accessibility Directive (WAD)**, which sets new standards for universal design of websites and mobile applications in the public sector as of February 2023 in Norway.
 
+I'm currently open for hire in Norway. You can find me on [Linkedin](https://www.linkedin.com/in/richie-botteri-1aab8b82/)
+
 ## Hard Skills
 
 💻 **Frontend Development**: 
@@ -37,6 +39,3 @@ I also comply with the **EU Web Accessibility Directive (WAD)**, which sets new 
 **Backend**
 - Experience with backend services such as **Supabase** and **Appwrite** (similar to **Firebase**).
 - Can integrate these services into frontend applications for features like authentication, database management, storage, and real-time updates.
-
-## Lets Connect ! 
-I'm currently open for hire in Norway. You can find me on [Linkedin](https://www.linkedin.com/in/richie-botteri-1aab8b82/)
