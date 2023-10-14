@@ -16,7 +16,7 @@ I'm currently open for hire in Norway. You can find me on [Linkedin](https://www
 - Profecient with **React**
 - Experience with **Next.js 13**.
 - Profecient with CSS frameworks such as **Tailwind** and **Bootstrap**.
-- Experience with component libraries like **Radux UI**
+- Experience with component libraries like **Radix ui**
 
 🌐 **Web Accessibility & Universal Design**
 - Committed to making the web accessible to everyone 🔥🔥
