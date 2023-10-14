@@ -10,7 +10,7 @@ I'm currently open for hire in Norway. You can find me on [Linkedin](https://www
 💻 **Programming Languages**
 - Strong foundation in **HTML**, **CSS**, and **JavaScript**.
 - Experience in **TypeScript** for static typing.
-- Proficient in using CSS preprocessor like **Sass**.
+- Proficient in using CSS preprocessors like **Sass**.
 
 🔧 **Frameworks & Libraries**
 - Profecient with **React**
