@@ -1,5 +1,5 @@
 # Hello there! 👋
-  I'm a **Junior Frontend Developer** with a passion for creating engaging, accessible, and user-friendly web experiences. 
+  I'm a **Junior Frontend Developer** from Kristiansand, with a passion for creating engaging, accessible, and user-friendly web experiences. 
 
 I also comply with the **EU Web Accessibility Directive (WAD)**, which sets new standards for universal design of websites and mobile applications in the public sector as of February 2023 in Norway.
 
