@@ -1,18 +1,42 @@
-### Hi there 👋
+# Hello there! 👋
+  I'm a **Junior Frontend Developer** with a passion for creating engaging, accessible, and user-friendly web experiences. 
 
-I'm taking a two year front-end developer education at Noroff school of vocational studies. We create user-friendly web solutions that follows the design thinking process, applying the universal principles of design and ensuring that our web solutions are accessible!
+I also comply with the **EU Web Accessibility Directive (WAD)**, which sets new standards for universal design of websites and mobile applications in the public sector as of February 2023 in Norway.
 
-<!--
-**richiebotteri/richiebotteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hard Skills
 
-Here are some ideas to get you started:
+💻 **Frontend Development**: 
+- Strong foundation in **HTML**, **CSS**, and **JavaScript**.
+- Experience with **React** and **Next.js 13**.
+- Proficient in **TypeScript** for static typing.
+- Proficient in using CSS preprocessor like **Sass**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Web APIs**: 
+- Experience with **RESTful services/APIs**.
+- Can perform **CRUD operations**.
+
+🌍 **Accessibility & Universal Design**: 
+- Committed to making the web accessible to everyone.
+- Follows principles of **Universal Design** and adheres to **WCAG guidelines**.
+- Implements **WAI-ARIA standards** for accessibility.
+- Uses **HTML5 semantics** for better accessibility.
+- Uses Web Accessibility Evaluation Tools according to W3 standards.
+
+📝 **Project Planning & Management**: 
+- Proficient in **Git**, **GitHub**, and **Jira**.
+- Experienced in **Kanban**, **Scrum**, and organizing work into Sprints.
+
+🎨 **CSS Frameworks**: 
+- Experience with **Bootstrap**, **Tailwind**, and **Radix UI**.
+
+## Interdisciplinary Skills 
+**UX/UI**
+- Experience with **Figma**, **Figjam**, and **Adobe XD** for creating user interfaces and prototypes.
+- Can create **user stories**, **information architectures**, **wireframes**, and **prototypes** for web applications.
+
+**Backend**
+- Experience with backend services such as **Supabase** and **Appwrite** (similar to **Firebase**).
+- Can integrate these services into frontend applications for features like authentication, database management, storage, and real-time updates.
+
+## Lets Connect ! 
+I'm currently open for hire in Norway. You can find me on [Linkedin](https://www.linkedin.com/in/richie-botteri-1aab8b82/)
