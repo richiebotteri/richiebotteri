@@ -5,37 +5,46 @@ I also comply with the **EU Web Accessibility Directive (WAD)**, which sets new 
 
 I'm currently open for hire in Norway. You can find me on [Linkedin](https://www.linkedin.com/in/richie-botteri-1aab8b82/)
 
-## Hard Skills
+## Frontend Skills
 
-💻 **Frontend Development**: 
+💻 **Programming Languages**
 - Strong foundation in **HTML**, **CSS**, and **JavaScript**.
-- Experience with **React** and **Next.js 13**.
-- Proficient in **TypeScript** for static typing.
+- Experience in **TypeScript** for static typing.
 - Proficient in using CSS preprocessor like **Sass**.
 
-🌐 **Web APIs**: 
-- Experience with **RESTful services/APIs**.
-- Can perform **CRUD operations**.
+🔧 **Frameworks & Libraries**
+- Profecient with **React**
+- Experience with **Next.js 13**.
+- Profecient with CSS frameworks such as **Tailwind** and **Bootstrap**.
+- Experience with component libraries like **Radux UI**
 
-🌍 **Accessibility & Universal Design**: 
-- Committed to making the web accessible to everyone.
-- Follows principles of **Universal Design** and adheres to **WCAG guidelines**.
-- Implements **WAI-ARIA standards** for accessibility.
-- Uses **HTML5 semantics** for better accessibility.
+🌐 **Web Accessibility & Universal Design**
+- Committed to making the web accessible to everyone 🔥🔥
+- Follows principles of Universal Design and adheres to WCAG guidelines.
+- Implements WAI-ARIA standards for accessibility.
+- Uses HTML5 semantics.
 - Uses Web Accessibility Evaluation Tools according to W3 standards.
 
-📝 **Project Planning & Management**: 
-- Proficient in **Git**, **GitHub**, and **Jira**.
-- Experienced in **Kanban**, **Scrum**, and organizing work into Sprints.
+📝 **Project Planning & Management**
+- Proficient in Git and GitHub for version control.
+- Experienced in using Jira for project management.
+- Experienced in Kanban and Scrum methodologies like Sprints.
 
-🎨 **CSS Frameworks**: 
-- Experience with **Bootstrap**, **Tailwind**, and **Radix UI**.
+🔁 **APIs & CRUD Operations**
+- Experience with RESTful services/APIs.
+- Can perform CRUD operations (create, retrieve, update, delete).
+
+🔍 **Testing**
+- Experience in Jest for unit testing.
+- Experience with Cypress for end-to-end testing.
 
 ## Interdisciplinary Skills 
-**UX/UI**
-- Experience with **Figma**, **Figjam**, and **Adobe XD** for creating user interfaces and prototypes.
-- Can create **user stories**, **information architectures**, **wireframes**, and **prototypes** for web applications.
 
-**Backend**
-- Experience with backend services such as **Supabase** and **Appwrite** (similar to **Firebase**).
-- Can integrate these services into frontend applications for features like authentication, database management, storage, and real-time updates.
+🎨 **UX/UI Design**
+- Experience with Figma, Figjam, and Adobe XD for creating user interfaces and prototypes.
+- Can create user stories, information architectures, wireframes, and prototypes for web applications.
+
+💾 **Backend Development**
+- Experience integrating backend services like Supabase and Appwrite.
+- Utilized these services for features such as authentication, database management, storage, and real-time updates.
+- Experience with PostgreSQL for database management.
