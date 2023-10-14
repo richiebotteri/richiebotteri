@@ -21,22 +21,22 @@ I'm currently open for hire in Norway. You can find me on [Linkedin](https://www
 🌐 **Web Accessibility & Universal Design**
 - Committed to making the web accessible to everyone 🔥🔥
 - Follows principles of Universal Design and adheres to WCAG guidelines.
-- Implements WAI-ARIA standards for accessibility.
-- Uses HTML5 semantics.
-- Uses Web Accessibility Evaluation Tools according to W3 standards.
+- Implements **WAI-ARIA** standards for accessibility.
+- Uses **HTML5** semantics.
+- Uses Web Accessibility Evaluation Tools according to **W3C** standards.
 
 📝 **Project Planning & Management**
-- Proficient in Git and GitHub for version control.
-- Experienced in using Jira for project management.
-- Experienced in Kanban and Scrum methodologies like Sprints.
+- Proficient in **Git** and **GitHub** for version control.
+- Experienced in using **Jira** for project management.
+- Experienced in **Kanban** and **Scrum** methodologies like Sprints.
 
 🔁 **APIs & CRUD Operations**
-- Experience with RESTful services/APIs.
+- Experience with **RESTful** services/APIs.
 - Can perform CRUD operations (create, retrieve, update, delete).
 
 🔍 **Testing**
-- Experience in Jest for unit testing.
-- Experience with Cypress for end-to-end testing.
+- Experience in **Jest** for **unit testing**.
+- Experience with **Cypress** for **end-to-end testing**.
 
 ## Interdisciplinary Skills 
 
@@ -45,6 +45,6 @@ I'm currently open for hire in Norway. You can find me on [Linkedin](https://www
 - Can create user stories, information architectures, wireframes, and prototypes for web applications.
 
 💾 **Backend Development**
-- Experience integrating backend services like Supabase and Appwrite (Similar to Firebase).
+- Experience integrating backend services like **Supabase** and Appwrite (Similar to **Firebase**).
 - Utilized these services for features such as authentication, database management, storage, and real-time updates.
-- Experience with PostgreSQL for database management.
+- Experience with **PostgreSQL** for database management.
